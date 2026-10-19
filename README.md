@@ -76,6 +76,11 @@ Avaliados em vídeos reais de avenidas de São Paulo, com partição por vídeo 
   <br><sub>Quadro original (esquerda) e saída do Lince (direita): ciclovia e ciclofaixa delimitadas (acima) e carros detectados (abaixo).</sub>
 </p>
 
+<p align="center">
+  <img src="assets/exemplos_micromobilidade.png" alt="Exemplos da detecção da micromobilidade" width="100%">
+  <br><sub>Micromobilidade: anotação de referência (1ª coluna) e saída da cascata com três detectores diferentes, nas mesmas imagens de teste.</sub>
+</p>
+
 **Principal aprendizado:** quando o objeto é encontrado, a maior parte é classificada corretamente — o desafio está em **encontrar** usuários pequenos, distantes e noturnos, e em separar o ciclomotor da bicicleta elétrica.
 
 ---
