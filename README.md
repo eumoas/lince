@@ -71,6 +71,11 @@ Avaliados em vídeos reais de avenidas de São Paulo, com partição por vídeo 
 | Detecção de veículos motorizados | **mAP@0,5 de 0,72**; 86% dos carros detectados |
 | Micromobilidade (cascata) | três gerações de detectores comparadas; melhor sistema com **macro F1 de 0,50** em seis classes |
 
+<p align="center">
+  <img src="assets/exemplo_carros_ciclofaixa.png" alt="Exemplos de segmentação da ciclofaixa e detecção de carros" width="100%">
+  <br><sub>Quadro original (esquerda) e saída do Lince (direita): ciclovia e ciclofaixa delimitadas (acima) e carros detectados (abaixo).</sub>
+</p>
+
 **Principal aprendizado:** quando o objeto é encontrado, a maior parte é classificada corretamente — o desafio está em **encontrar** usuários pequenos, distantes e noturnos, e em separar o ciclomotor da bicicleta elétrica.
 
 ---
