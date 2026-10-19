@@ -15,7 +15,8 @@
     <td>
       <b>Projeto acadêmico</b> da disciplina <b>Projeto Aplicado</b><br>
       Pós-graduação em <b>Inteligência Artificial Aplicada</b> — UniSENAI<br>
-      Professor: <b>Willian Daniel de Mattos</b> · Coordenação: <b>Guilherme Bernieri</b>
+      Professor: <b>Willian Daniel de Mattos</b> · 
+      Coordenação: <b>Guilherme Bernieri</b>
     </td>
   </tr>
 </table>
